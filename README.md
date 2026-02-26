@@ -1,6 +1,6 @@
 # Verso
 
-Verso is a native SwiftUI client for [Jellyfin](https://jellyfin.org) media servers, with built-in support for [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) media requests and [Prograrr](https://github.com/prograrr/prograrr) download tracking.
+Verso is a native SwiftUI client for [Jellyfin](https://jellyfin.org) media servers, with built-in support for [Jellyseerr](https://github.com/Fallenbagel/jellyseerr) media requests and [Prograrr](https://github.com/IAvecilla/Prograrr) download tracking.
 
 ---
 
